@@ -1,0 +1,19 @@
+{
+  
+  "name": "socket-server",
+  "version": "0.0.1",
+  "description": "my first realtime server",
+"dependencies" : {
+   
+"redis": "",
+    
+"socket.io": "",
+    
+"express": ""
+  ,
+"log4js":"",
+"connect":""
+}
+
+}
+
